@@ -1,0 +1,25 @@
+{
+  "name": "car-parking-system",
+  "version": "1.0.0",
+  "description": "car parking sys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshthakur2373/car-parking-system.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "yogesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshthakur2373/car-parking-system/issues"
+  },
+  "homepage": "https://github.com/yogeshthakur2373/car-parking-system#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
